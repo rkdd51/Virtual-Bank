@@ -77,21 +77,21 @@ function Footer() {
                   <FaFacebook />
                 </SocialIconLink>
                 <SocialIconLink
-                  href="https://www.instagram.com/_shubham_singh22/"
+                  href="https://www.instagram.com/"
                   traget="_blank"
                   aria-label="Instagram"
                 >
                   <FaInstagram />
                 </SocialIconLink>
                 <SocialIconLink
-                  href="https://www.linkedin.com/in/shubham-singh-chauhan/"
+                  href="https://www.linkedin.com/in/"
                   traget="_blank"
                   aria-label="Linkedin"
                 >
                   <FaLinkedin />
                 </SocialIconLink>
                 <SocialIconLink
-                  href="https://github.com/ShubhamSingh047"
+                  href="https://github.com/"
                   traget="_blank"
                   aria-label="Github"
                 >
