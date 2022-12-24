@@ -70,7 +70,7 @@ function Footer() {
               </WebsiteRights>
               <SocialIcons>
                 <SocialIconLink
-                  href="https://www.facebook.com/ThisIsIt.786/"
+                  href="https://www.facebook.com/"
                   traget="_blank"
                   aria-label="Facebook"
                 >
